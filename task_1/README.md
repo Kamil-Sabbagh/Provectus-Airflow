@@ -6,7 +6,7 @@ _Provectus Internship, 2021_
 
 ## Table of contents
 1. [ Introduction ](#intro)
-2. [ Implementation in Scala ](#Implementation)
+2. [ Implementation ](#Implementation)
 3. [ Running the coed ](#Running)
 
 
