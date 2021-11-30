@@ -23,12 +23,18 @@ The created DAG contains three tasks map1, map2, map3, and reduce. and two custo
 ## 3. Running the code
 
 first things first install the requirements from requirements.txt:
+```
 pip install -r requirements.txt
+```
 Then run the airflow webserver:
+```
 airflow webserver
+```
 after the running the server you can checkout your DAGs and their status on http://localhost:8080/
 
 next we run the DAG using the command:
+```
 airflow dags backfill map-reduce --start-date 2021-11-30
+```
 you may setup the date to whatever date you want.
-after running the command you should be able to view the status and logs of the map-reduce dag. the output map will be saved in `output.csv`a
+after running the command you should be able to view the status and logs of the map-reduce dag. the output map will be saved in `output.csv`.
