@@ -1,6 +1,4 @@
-# Provectus-Airflow Task 1
-
-Assignment submission for the Introduction to Big Data course, 
+# Provectus-Airflow Task 1 
 
 _Provectus Internship, 2021_
 
