@@ -23,7 +23,7 @@ In this task we create a docker-compose that does the following :
 <a name="Running"></a>
 ## 2. Running the code
 
-First, it's needed to [download] the dataset `tweets.csv` you can download it (https://dataverse.harvard.edu/dataset.xhtml?id=3047332)
+First, it's needed to [download](https://dataverse.harvard.edu/dataset.xhtml?id=3047332) the dataset `tweets.csv` you can download it 
 and then store inside the dags file
 
 Then we need to set up the environment, by running the commands:
